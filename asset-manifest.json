@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khainguyen2701/testKyanon-Digital/static/css/main.645342c5.css",
-    "main.js": "/khainguyen2701/testKyanon-Digital/static/js/main.da195f82.js",
-    "static/js/787.58d4cd6c.chunk.js": "/khainguyen2701/testKyanon-Digital/static/js/787.58d4cd6c.chunk.js",
-    "index.html": "/khainguyen2701/testKyanon-Digital/index.html",
-    "main.645342c5.css.map": "/khainguyen2701/testKyanon-Digital/static/css/main.645342c5.css.map",
-    "main.da195f82.js.map": "/khainguyen2701/testKyanon-Digital/static/js/main.da195f82.js.map",
-    "787.58d4cd6c.chunk.js.map": "/khainguyen2701/testKyanon-Digital/static/js/787.58d4cd6c.chunk.js.map"
+    "main.css": "/testKyanon-Digital/static/css/main.645342c5.css",
+    "main.js": "/testKyanon-Digital/static/js/main.195786cb.js",
+    "static/js/787.58d4cd6c.chunk.js": "/testKyanon-Digital/static/js/787.58d4cd6c.chunk.js",
+    "index.html": "/testKyanon-Digital/index.html",
+    "main.645342c5.css.map": "/testKyanon-Digital/static/css/main.645342c5.css.map",
+    "main.195786cb.js.map": "/testKyanon-Digital/static/js/main.195786cb.js.map",
+    "787.58d4cd6c.chunk.js.map": "/testKyanon-Digital/static/js/787.58d4cd6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.645342c5.css",
-    "static/js/main.da195f82.js"
+    "static/js/main.195786cb.js"
   ]
 }

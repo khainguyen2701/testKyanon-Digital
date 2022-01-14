@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^4.18.3",
     "file-server": "^2.2.0",
+    "gh-pages": "^3.2.3",
     "json-server": "^0.17.0",
     "react": "^17.0.2",
     "react-csv": "^2.2.1",

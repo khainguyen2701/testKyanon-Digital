@@ -1,0 +1,107 @@
+.site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+    background: #fff;
+  }
+  #components-layout-demo-top .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  .ant-layout-header, #themeHeader{
+    background: rgba(255, 255, 255, 0.3);
+  }
+  .logo-header{
+      display: flex;
+  }
+  .center{
+    display: block;
+    margin: 0 auto;
+  }
+  .right span{
+      color: #fff;
+    border-radius:30px;
+      background-color:brown;
+      padding: 3px 7px 5px;
+      font-size: 10px;
+  }
+  #components-dropdown-demo-arrow .ant-btn {
+    margin-right: 8px;
+    margin-bottom: 8px;
+  }
+  .ant-row-rtl #components-dropdown-demo-arrow .ant-btn {
+    margin-right: 0;
+    margin-bottom: 8px;
+    margin-left: 8px;
+  }
+  .breanbrum{
+      display: flex;
+      background:teal;
+  }
+  .filter-button, .ellipsis-button{
+    margin: 7px 0px;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    position: relative;
+    left: 70%;
+  }
+  .ellipsis-button:hover, .filter-button:hover{
+      background:none !important;
+      border: none !important;
+  }
+  .filter{
+   
+    padding: 0 35px;
+  }
+  .tableContent{
+    display:flex;
+  }
+  .ant-table-wrapper {
+  width: 100% !important;
+}
+.buttonStyle{
+  padding: 10px 70px;
+}
+.infor-name{
+  display: flex;
+}
+.inspections{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+.total, .issues, .last-login, .sites{
+  padding: 0 10px;
+}
+.ant-drawer-content-wrapper{
+  width: 100% !important;
+}
+.avata-name{
+  width: 30%;
+}
+.inspections, .inspections-card{
+  width: 100%;
+}
+.inspections-card{
+  background: none !important;
+  text-align: left !important;
+}
+.ant-card{
+  background-color:aquamarine;
+}
+.avata-name{
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+}
+.btn-issues, .btn-inspection{
+  margin:20px 20px;
+}
